@@ -1,4 +1,5 @@
 # Sample Python app for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/michaelhambe/AzureTutorial/_apis/build/status/jonyred.pipelines-python-django)](https://dev.azure.com/michaelhambe/AzureTutorial/_build/latest?definitionId=2)
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
